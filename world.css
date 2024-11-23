@@ -1,1 +1,19 @@
-/* Add your own styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #9e9292cb;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #980b0b;
+}
+
+tr:hover {
+    background-color: #f0bdbd;
+}
